@@ -1,0 +1,43 @@
+.tables-design{
+    width:100%;
+    border-collapse:collapse;
+    background-color: hotpink;
+    border-radius: 14px;
+}
+
+td,th{
+    border: 1px solid whitesmoke;
+    text-align: center;
+    padding: 8px;
+    color:whitesmoke;
+    
+}
+
+tr:nth-child(even){
+    background-color: thistle;
+    
+}
+
+table{
+    width:100%;
+}
+
+table,th,td{
+    border: 1px solid red;
+}
+
+.thd ,td{
+    color:red
+}
+
+.designislamibank{
+    width:40%;
+}
+
+.designRow{
+    height: 200px;
+}
+
+.clr{
+    color:rgb(2, 9, 118);
+}
